@@ -2,7 +2,7 @@ NOTES sur la famille
 ====================
 
 
-1. [Et si la famille était une belle aventure !](chap01)
+1. [Et si la famille était une belle aventure !](chap01.md)
 2. [Un trésor à explorer](chap02)
 3. [Un combat à mener pour préserver un trésor fragile](chap03)
 4. [Pourquoi le mal et la souffrance dans nos familles ?](chap04)
