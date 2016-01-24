@@ -2,6 +2,7 @@ NOTES sur la famille
 ====================
 
 
+0. [Préface](../../wiki/chap00-preface)
 1. [Et si la famille était une belle aventure !](../../wiki/chap01)
 2. [Un trésor à explorer](../../wiki/chap02)
 3. [Un combat à mener pour préserver un trésor fragile](../../wiki/chap03)
